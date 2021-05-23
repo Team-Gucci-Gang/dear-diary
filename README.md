@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="https://media0.giphy.com/media/xix1onOcFoBdLHjWaS/giphy.gif" alt="diary" />
+</div>
+
 # Dear Diary
 
 Keeping a diary has the ability to reduce our anxieties and settle our nerves in potentially stressful situations. To keep a diary of your thoughts and emotions surrounding situations you feel uncomfortable with, enables you to develop a sense of control and therefore reduce your anxiety.
